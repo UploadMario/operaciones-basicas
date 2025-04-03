@@ -1,1 +1,3 @@
 # Operacionesbásicas
+## Autor
+Miranda Mario
